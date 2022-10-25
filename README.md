@@ -43,7 +43,7 @@ A bachelor's degree, usually in computer science, computer systems engineering, 
 <img src="https://img.freepik.com/free-vector/money-bag-background-design_1270-41.jpg?w=360" width="300" height="300">
 
 
-## **Salary Range**
+## **Salary**
 
 
  | Salary Range | Amount  |
